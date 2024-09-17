@@ -2,7 +2,17 @@
 #Read in each answer and store it in a variable
 #Print out the result
 
-print("Welcome to Mad Libs!")
-print("Give me a name: ")
+
+print("give me a name")
 name=input()
-print("One day",name,"wrote a Mad Lib for class!")
+
+print("Give me an environment (forest, desert, etc.)")
+enviro=input()
+
+print("give me a favorite animal ")
+adjective=input()
+
+print("name a noun such as a super power , telepathy, speed , psychokinesis etc. ")
+      noun=input()
+
+print("once upon time was a boy called", name, "who had a dream  of lost in the",enviro,"and " , adjective , " was chasing  him he got superpower and would should them with " , noun , " and they was unstopable ")
