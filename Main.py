@@ -12,7 +12,7 @@ enviro=input()
 print("give me a favorite animal ")
 adjective=input()
 
-print("name a noun such as a super power , telepathy, speed , psychokinesis etc. ")
-      noun=input()
+print("name a shooting object . ")
+noun=input()
 
-print("once upon time was a boy called", name, "who had a dream  of lost in the",enviro,"and " , adjective , " was chasing  him he got superpower and would should them with " , noun , " and they was unstopable ")
+print("once upon time was a farmer called ", name, "he was dreaming lost in ",enviro,"and " , adjective , " it was chasing  him he got Angry  and would should them with " , noun , " but what ever he did din't work it ended up eating him ")
